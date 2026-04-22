@@ -1,0 +1,1 @@
+Product: baril | Price: P200.00 | Category: Mid-range | Stock: 21 | Status: OK
